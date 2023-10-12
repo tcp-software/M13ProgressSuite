@@ -1,0 +1,23 @@
+module FSCalendar {
+    header "M13ProgressConsole.h"
+    header "M13ProgressHUD.h"
+    header "M13ProgressView.h"
+    header "M13ProgressViewBar.h"
+    header "M13ProgressViewBorderedBar.h"
+    header "M13ProgressViewFilteredImage.h"
+    header "M13ProgressViewImage.h"
+    header "M13ProgressViewLetterpress.h"
+    header "M13ProgressViewMetro.h"
+    header "M13ProgressViewMetroDotPolygon.h"
+    header "M13ProgressViewPie.h"
+    header "M13ProgressViewRadiative.h"
+    header "M13ProgressViewRing.h"
+    header "M13ProgressViewSegmentedBar.h"
+    header "M13ProgressViewSegmentedRing.h"
+    header "M13ProgressViewStripedBar.h"
+    header "UIApplication+M13ProgressSuite.h"
+    header "UIImage+ImageEffects.h"
+    header "UINavigationController+M13ProgressViewBar.h"
+
+    export *
+}
