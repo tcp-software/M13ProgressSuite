@@ -1,4 +1,4 @@
-module FSCalendar {
+module M13ProgressSuite {
     header "M13ProgressConsole.h"
     header "M13ProgressHUD.h"
     header "M13ProgressView.h"
