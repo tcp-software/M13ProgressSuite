@@ -1,1 +1,1 @@
-/Users/milanbibeskovic/Documents/workspace/iOS/M13ProgressSuite/M13ProgressSuite/M13ProgressViewStripedBar.h
+../M13ProgressViewStripedBar.h
